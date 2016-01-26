@@ -1,0 +1,24 @@
+{
+  "name": "random-string",
+  "version": "1.0.0",
+  "description": "Generate random alphanumeric characters",
+  "main": "random-string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cscport/random-string-generator.js.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "alphnumeric"
+  ],
+  "author": "cscport",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cscport/random-string-generator.js/issues"
+  },
+  "homepage": "https://github.com/cscport/random-string-generator.js#readme"
+}
